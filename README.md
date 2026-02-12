@@ -1,6 +1,6 @@
 ## Hi... 💗
 - 🎓- Student of Systems Analysis and Development
-- 💬 - studying Java 
+- 💬 - Studying to become a front-end dev 
 - 📫 How to reach me: Monalisaoliveiraalves123@gmail.com
 
 <div style="display: inline_block"><br>
