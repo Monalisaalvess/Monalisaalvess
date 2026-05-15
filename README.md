@@ -17,7 +17,7 @@ Olá! Me chamo Monalisa, sou estudante de Análise e Desenvolvimento de Sistemas
 <br/><br/>
 <li>Cursando ADS – UNIGRANDE (previsão: Dez/2026)</li>
 <li>Focada em HTML, CSS, JavaScript e React</li>
-<li>Atualmente aprendendo React + boas práticas de UI</li>
+<li>Atualmente aprendendo React e TypeScript + boas práticas de UI</li>
 <li>Baseada em Crato, CE — disponível para mudança</li>
 <li>Inglês intermediário | Espanhol básico</li>
 
