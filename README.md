@@ -13,10 +13,10 @@
 </div>
 
 <h3>Sobre mim</h3>
-Olá! Me chamo Monalisa, sou estudante de Análise e Desenvolvimento de Sistemas pela UNIGRANDE (4º semestre), apaixonada por criar interfaces bonitas e funcionais. Estou em transição para a área de desenvolvimento front-end, buscando minha primeira oportunidade de estágio na área. 
+Olá! Me chamo Monalisa, sou estudante de Análise e Desenvolvimento de Sistemas pela UNIGRANDE (4º semestre), apaixonada por criar interfaces bonitas e funcionais. Estou em transição para a área de desenvolvimento Full Stack, buscando minha primeira oportunidade de estágio na área. 
 <br/><br/>
 <li>Cursando ADS – UNIGRANDE (previsão: Dez/2026)</li>
-<li>Focada em HTML, CSS, JavaScript e React</li>
+<li>Focada em HTML, CSS, JavaScript, React e Node.js</li>
 <li>Atualmente aprendendo React e TypeScript + boas práticas de UI</li>
 <li>Moro no Crato, CE — disponível para mudança</li>
 <li>Inglês intermediário | Espanhol básico</li>
