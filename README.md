@@ -27,23 +27,11 @@
 <br/>
 
 ## Sobre mim
-
-Sou **Monalisa Alves**, estudante de Análise e Desenvolvimento de Sistemas pela **UNIGRANDE** e desenvolvedora em formação.
-
-Tenho interesse em desenvolvimento web, criação de interfaces modernas e construção de aplicações completas, desde o Front-End até o Back-End.
-
-Atualmente, estou aprofundando meus conhecimentos em **React, TypeScript, Node.js, Java e Spring Boot**, buscando evoluir tanto tecnicamente quanto em arquitetura e boas práticas.
-
-<br/>
-
-<div align="center">
-
-|       Formação      |                 Foco                |
-| :-----------------: | :---------------------------------: |
-|   ADS — UNIGRANDE   |      Desenvolvimento Full Stack     |
-| Conclusão: Dez/2026 | React · TypeScript · Node.js · Java |
-
-</div>
+Olá! Me chamo Monalisa, estudante de Análise e Desenvolvimento de Sistemas (5º semestre), apaixonada por criar interfaces bonitas e funcionais. Estou em transição para a área de desenvolvimento Full Stack, sempre em busca de aprender algo novo e evoluir a cada projeto.
+ 
+- Cursando ADS 
+- Focada em HTML, CSS, JavaScript, React e Node.js
+- Aprendendo React, TypeScript e Python
 
 <br/>
 
@@ -52,9 +40,7 @@ Atualmente, estou aprofundando meus conhecimentos em **React, TypeScript, Node.j
 ### Front-End
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs" />
-
 </div>
 
 <br/>
@@ -62,19 +48,14 @@ Atualmente, estou aprofundando meus conhecimentos em **React, TypeScript, Node.j
 ### Back-End
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python" />
-
 </div>
-
 <br/>
 
 ### Banco de Dados
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
 </div>
 
 <br/>
@@ -82,9 +63,7 @@ Atualmente, estou aprofundando meus conhecimentos em **React, TypeScript, Node.j
 ### Ferramentas
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-
 </div>
 
 <br/>
@@ -96,7 +75,6 @@ Atualmente, estou aprofundando meus conhecimentos em **React, TypeScript, Node.j
 `React`   `TypeScript`   `Node.js`   `Java`   `Spring Boot`
 
 `APIs REST`   `Banco de Dados`   `Arquitetura`   `Boas Práticas`
-
 </div>
 
 <br/>
@@ -106,7 +84,6 @@ Atualmente, estou aprofundando meus conhecimentos em **React, TypeScript, Node.j
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Monalisaalvess&show_icons=true&hide_border=true&bg_color=0F0F12&title_color=FF6B91&icon_color=FF6B91&text_color=FFFFFF"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisaalvess&layout=compact&hide_border=true&bg_color=0F0F12&title_color=FF6B91&text_color=FFFFFF"/>
 
 </div>
@@ -116,14 +93,6 @@ Atualmente, estou aprofundando meus conhecimentos em **React, TypeScript, Node.j
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monalisaalvess&hide_border=true&background=0F0F12&ring=FF6B91&fire=FF6B91&currStreakLabel=FF6B91&sideLabels=FF8EAB&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`Building, learning and improving every day.`
 
 </div>
 
