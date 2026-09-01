@@ -72,21 +72,15 @@ Olá! Me chamo Monalisa, estudante de Análise e Desenvolvimento de Sistemas (5�
 
 <div align="center">
 
-`React`   `TypeScript`   `Node.js`   `Java`   `Spring Boot`
+ `TypeScript`   `Next.js`   `Python`  
 
-`APIs REST`   `Banco de Dados`   `Arquitetura`   `Boas Práticas`
+  `Arquitetura`   `Boas Práticas`
 </div>
 
 <br/>
 
 ## GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Monalisaalvess&show_icons=true&hide_border=true&bg_color=0F0F12&title_color=FF6B91&icon_color=FF6B91&text_color=FFFFFF"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisaalvess&layout=compact&hide_border=true&bg_color=0F0F12&title_color=FF6B91&text_color=FFFFFF"/>
-
-</div>
 
 <br/>
 
