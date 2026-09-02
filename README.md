@@ -26,16 +26,17 @@
 
 <br/>
 
-## Sobre mim
-Olá! Me chamo Monalisa, estudante de Análise e Desenvolvimento de Sistemas (5º semestre), apaixonada por criar interfaces bonitas e funcionais. Estou em transição para a área de desenvolvimento Full Stack, sempre em busca de aprender algo novo e evoluir a cada projeto.
- 
-- Cursando ADS 
-- Focada em HTML, CSS, JavaScript, React e Node.js
-- Aprendendo React, TypeScript e Python
+## About Me
+
+Hi! I'm Monalisa, a Systems Analysis and Development student with a passion for building beautiful, functional, and user-friendly interfaces. I'm currently transitioning into Full Stack Development, constantly learning new technologies and improving my skills through hands-on projects.
+
+* Currently pursuing a degree in Systems Analysis and Development
+* Focused on HTML, CSS, JavaScript, React, and Node.js
+* Currently learning TypeScript, Next.js, and Python
 
 <br/>
 
-## Tecnologias
+## Technologies
 
 ### Front-End
 
@@ -50,9 +51,10 @@ Olá! Me chamo Monalisa, estudante de Análise e Desenvolvimento de Sistemas (5�
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python" />
 </div>
+
 <br/>
 
-### Banco de Dados
+### Databases
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -60,7 +62,7 @@ Olá! Me chamo Monalisa, estudante de Análise e Desenvolvimento de Sistemas (5�
 
 <br/>
 
-### Ferramentas
+### Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
@@ -68,19 +70,19 @@ Olá! Me chamo Monalisa, estudante de Análise e Desenvolvimento de Sistemas (5�
 
 <br/>
 
-## Atualmente estudando
+## Currently Learning
 
 <div align="center">
 
- `TypeScript`   `Next.js`   `Python`  
+`TypeScript`   `Next.js`   `Python`  
 
-  `Arquitetura`   `Boas Práticas`
+`Software Architecture`   `Best Practices`
+
 </div>
 
 <br/>
 
 ## GitHub
-
 
 <br/>
 
