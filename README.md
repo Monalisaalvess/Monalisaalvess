@@ -57,7 +57,7 @@ Hi! I'm Monalisa, a Systems Analysis and Development student with a passion for 
 ### Databases
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </div>
 
 <br/>
