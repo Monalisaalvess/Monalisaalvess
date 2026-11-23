@@ -28,8 +28,8 @@ Hi! I'm **Monalisa**, a Systems Analysis and Development student passionate abou
 I'm a **Full Stack Developer** passionate about technology and software engineering. I work with both frontend and backend development, building practical projects and continuously improving my skills.
 
  <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23C76B8A" width="16"/> Systems Analysis and Development student — UNIGRANDE. <br/>
- - <img src="https://api.iconify.design/lucide/code-2.svg?color=%23C76B8A" width="16"/> Focused on Python and its frameworks. <br/>
-- <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23C76B8A" width="16"/> Interested in AI Engineering and intelligent systems. <br/>
+ <img src="https://api.iconify.design/lucide/code-2.svg?color=%23C76B8A" width="16"/> Focused on Python and its frameworks. <br/>
+ <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23C76B8A" width="16"/> Interested in AI Engineering and intelligent systems. <br/>
  <img src="https://api.iconify.design/lucide/code-2.svg?color=%23C76B8A" width="16"/> Working with Node.js, TypeScript and React. <br/>
  <img src="https://api.iconify.design/lucide/blocks.svg?color=%23C76B8A" width="16"/> Interested in software architecture, APIs and database design. <br/>
  <img src="https://api.iconify.design/lucide/flower-2.svg?color=%23C76B8A" width="16"/> Always learning and turning ideas into code. <br/>
