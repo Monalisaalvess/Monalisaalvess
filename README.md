@@ -25,7 +25,7 @@
 
 Hi! I'm **Monalisa**, a Systems Analysis and Development student passionate about technology and software engineering.
 
-I'm focused on becoming a Full Stack Developer, exploring both frontend and backend development while building practical projects and improving my skills.
+I'm a **Full Stack Developer** passionate about technology and software engineering. I work with both frontend and backend development, building practical projects and continuously improving my skills.
 
 - 🎓 Systems Analysis and Development student — UNIGRANDE.
 - ☕ Focused on Java and Spring Boot.
