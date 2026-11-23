@@ -1,93 +1,63 @@
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAD1DC,35:F4B6C2,70:D98BA5,100:B76E86&height=230&section=header&text=Monalisa%20Alves&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20progress%20%E2%9C%A7&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<br/>
-
-### ୨୧ &nbsp; building ideas into reality, one line of code at a time &nbsp; ୨୧
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:E8A0B5,100:C76B8A&height=200&section=header&text=Monalisa%20Alves&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Node.js&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-B76E86?style=flat-square&logo=github&logoColor=white)](https://github.com/Monalisaalvess)
-[![Email](https://img.shields.io/badge/Email-EAD1DC?style=flat-square&logo=gmail&logoColor=8F5268)](mailto:monalisaoliveiraalves123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D9A0B0?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+**୨୧ Hello, world! Welcome to my space ୨୧**
+
+*Code, creativity and a little bit of pink.*
 
 <br/>
+
+<a href="https://github.com/Monalisaalvess">
+<img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=F4B6C2"/>
+</a>
+<a href="mailto:monalisaoliveiraalves123@gmail.com">
+<img src="https://img.shields.io/badge/Email-242424?style=for-the-badge&logo=gmail&logoColor=F4B6C2"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## ♡ About me
 
-## ୨୧ &nbsp; ABOUT ME
+Hi! I'm **Monalisa**, a Systems Analysis and Development student passionate about technology and software engineering.
 
-</div>
+I'm focused on becoming a Full Stack Developer, exploring both frontend and backend development while building practical projects and improving my skills.
 
-
-const monalisa = {
-    education: "Systems Analysis and Development",
-    role: "Full Stack Developer",
-    interests: [
-        "Backend Development",
-        "Software Engineering",
-        "Web Development"
-    ],
-    currentlyFocusedOn: [
-        "Java",
-        "Spring Boot",
-        "TypeScript",
-        "Node.js"
-    ],
-    goal: "Building scalable and meaningful applications",
-    motto: "Always learning, always evolving ✧"
-};
-
-
-I'm Monalisa, a Systems Analysis and Development student passionate about technology, problem-solving and software development.
-
-I enjoy turning ideas into functional applications, exploring new technologies and continuously improving my development skills.
-
-My main focus is **Full Stack Development**, with a growing specialization in Java and backend engineering.
+- 🎓 Systems Analysis and Development student — UNIGRANDE.
+- ☕ Focused on Java and Spring Boot.
+- 💻 Working with Node.js, TypeScript and React.
+- ✧ Interested in software architecture, APIs and database design.
+- 🌷 Always learning and turning ideas into code.
 
 ---
 
-<div align="center">
-
-## ✧ &nbsp; TECH STACK
-
-*Technologies I use and explore*
-
-</div>
-
-**୨୧ Front-End**
+## ✧ Technologies & tools
 
 <div align="center">
+
+**FRONTEND**
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=light" />
 
-</div>
+<br/><br/>
 
-**୨୧ Back-End**
-
-<div align="center">
+**BACKEND**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=light" />
 
-</div>
+<br/><br/>
 
-**୨୧ Databases & ORM**
-
-<div align="center">
+**DATABASES**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=light" />
 
-</div>
+<br/><br/>
 
-**୨୧ Tools & Environment**
-
-<div align="center">
+**TOOLS**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=light" />
 
@@ -95,35 +65,43 @@ My main focus is **Full Stack Development**, with a growing specialization in Ja
 
 ---
 
-<div align="center">
+## ୨୧ Currently learning
 
-## ♡ &nbsp; CURRENT FOCUS
-
-</div>
-
-| Area | Focus |
+| Technology | Focus |
 |:---|:---|
-| Backend | Java & Spring Boot |
-| JavaScript Ecosystem | Node.js & TypeScript |
-| Frontend | React & modern web development |
-| Databases | PostgreSQL & database modeling |
-| Engineering | REST APIs, clean code & software architecture |
+| Java | Backend development |
+| Spring Boot | REST APIs and application architecture |
+| TypeScript | Type-safe application development |
+| Node.js | Backend applications |
+| PostgreSQL | Database modeling and queries |
 
 ---
 
+## ♡ Featured projects
+
+Explore my repositories to see my projects, experiments and learning journey.
+
 <div align="center">
 
-## ⋆｡°✩ &nbsp; GITHUB ACTIVITY
+<a href="https://github.com/Monalisaalvess?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-C76B8A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ⋆ GitHub statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Monalisaalvess&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=C76B8A&icon_color=E8A0B5&text_color=765565&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisaalvess&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=C76B8A&text_color=765565&langs_count=6"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Monalisaalvess&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=B76E86&icon_color=D98BA5&text_color=755565&ring_color=D98BA5&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisaalvess&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=B76E86&text_color=755565&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Monalisaalvess&hide_border=true&background=FFF7FA&ring=D98BA5&fire=B76E86&currStreakLabel=B76E86&sideLabels=755565&dates=9B8491&currStreakNum=755565&sideNums=755565" />
+<img src="https://streak-stats.demolab.com?user=Monalisaalvess&hide_border=true&background=FFF7FA&ring=C76B8A&fire=E8A0B5&currStreakLabel=C76B8A&sideLabels=765565&dates=9B8491&currStreakNum=765565&sideNums=765565"/>
 
 </div>
 
@@ -131,21 +109,18 @@ My main focus is **Full Stack Development**, with a growing specialization in Ja
 
 <div align="center">
 
-## ୨୧ &nbsp; LET'S CONNECT
+## ୨୧ Let's connect!
 
-Always open to learning, collaborating and connecting with people who love technology.
-
-<br/>
+*Open to opportunities, collaborations and new connections.*
 
 <a href="mailto:monalisaoliveiraalves123@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20talk-B76E86?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-C76B8A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*made with ♡, coffee and lots of code.*
+**made with ♡ and lots of coffee.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAD1DC,35:F4B6C2,70:D98BA5,100:B76E86&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:E8A0B5,100:C76B8A&height=110&section=footer" width="100%"/>
 
 </div>
-
