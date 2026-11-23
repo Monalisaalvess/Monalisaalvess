@@ -44,19 +44,19 @@ I'm a **Full Stack Developer** passionate about technology and software engineer
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=light" />
 
-<br/><br/>
+<br/>
 
 **BACKEND**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=light" />
 
-<br/><br/>
+<br/>
 
 **DATABASES**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=light" />
 
-<br/><br/>
+<br/>
 
 **TOOLS**
 
@@ -70,11 +70,9 @@ I'm a **Full Stack Developer** passionate about technology and software engineer
 
 | Technology | Focus |
 |:---|:---|
-| Java | Backend development |
-| Spring Boot | REST APIs and application architecture |
-| TypeScript | Type-safe application development |
-| Node.js | Backend applications |
-| PostgreSQL | Database modeling and queries |
+| Python | Backend development and frameworks |
+| TypeScript | Advanced typing and application development |
+| AI Architecture | Intelligent systems and AI engineering |
 
 ---
 
